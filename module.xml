@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Module name="Helix MP3 codec" id="0a5b9cd9-a5a3-4fa8-a93a-4e2e76ca0b82">
+    <ConfigRoot path="config/module.py"/>
+</Module>
