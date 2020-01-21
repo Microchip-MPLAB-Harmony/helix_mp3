@@ -16,6 +16,8 @@ and microprocessor devices.  Refer to the following links for more information.
 This repository contains the MPLAB® Harmony 3 Helix MP3 Decoder Library.
 Quickly incorporate the library to add MP3 decoding to your applications.
 
+**NOTE: This library is intended to be used only with the MP3 Decoder module found in the Audio repository.  See that repo's documentation for more information.**
+
 - [Release Notes](./release_notes.md)
 - [License](TBD)
 

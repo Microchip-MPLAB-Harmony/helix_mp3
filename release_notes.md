@@ -3,7 +3,7 @@
 
 # Microchip MPLAB® Harmony 3 Release Notes
 
-## Helix MP3 Decoder Library Release v3.5.0
+## Helix MP3 Decoder Library Release v1.0
 ### New Features
 
 * TBD
