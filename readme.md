@@ -13,13 +13,14 @@ and microprocessor devices.  Refer to the following links for more information.
 - [Microchip MPLAB® Harmony](https://www.microchip.com/mplab/mplab-harmony)
 - [Microchip MPLAB® Harmony Pages](https://microchip-mplab-harmony.github.io/)
 
-This repository contains the MPLAB® Harmony 3 Helix MP3 Decoder Library.
-Quickly incorporate the library to add MP3 decoding to your applications.
+**NOTE: This library is intended to be used by the MP3 Decoder member of the Audio Decoder Libraries found in the Audio repository.  See that repo's documentation for more information.**
 
-**NOTE: This library is intended to be used only with the MP3 Decoder module found in the Audio repository.  See that repo's documentation for more information.**
+This repository contains the MPLAB® Harmony 3 Helix MP3 Decoder Library.
+The source code is brought into a project automatically when the "Enable MP3 Decoder" checkbox is checked in the MHC Configuration Options for the Audio Decoder Libraries component of the Audio repository.
 
 - [Release Notes](./release_notes.md)
-- [License](TBD)
+- [RCSL License](./fixpnt/RCSL.txt)
+- [RPSL License](./fixpnt/RPSL.txt)
 
 # Contents Summary
 
